@@ -34,8 +34,8 @@ Please cite the following reference if using this protocol with or without the p
 Bodhi P. Vani, Akashnathan Aranganathan, Dedi Wang, Pratyush Tiwary
 J. Chem. Theory Comput. 2023; doi: https://doi.org/10.1021/acs.jctc.3c00290
 
-* "Exploring kinase asp-phe-gly (dfg) loop conformational stability with alphafold2-rave." Vani BP, Aranganathan A, Tiwary P.  Journal of chemical information and modeling. 2023 Nov 20;64(7):2789-97.
+* "Exploring kinase asp-phe-gly (dfg) loop conformational stability with alphafold2-rave." Vani BP, Aranganathan A, Tiwary P.  Journal of chemical information and modeling. 2023 Nov 20;64(7):2789-97. https://doi.org/10.1021/acs.jcim.3c01436
 
 * "State predictive information bottleneck", Dedi Wang and Pratyush Tiwary, J. Chem. Phys. 154, 134111 (2021) https://doi.org/10.1063/5.0038198
 
-* "Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE." Gu X, Aranganathan A, Tiwary P.  ArXiv. 2024 Apr 10.
+* "Empowering AlphaFold2 for protein conformation selective drug discovery with AlphaFold2-RAVE." Gu X, Aranganathan A, Tiwary P.  ArXiv. 2024 Apr 10. https://arxiv.org/abs/2404.07102v2
